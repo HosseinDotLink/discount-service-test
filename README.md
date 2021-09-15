@@ -1,6 +1,6 @@
 # Discount service test
 
-Check discount by discount priority, API documentation available on [here]().
+Check discount by discount priority, API documentation available on [here](https://documenter.getpostman.com/view/14308169/U16ooifa).
 
 ## Installation
 
@@ -25,4 +25,4 @@ nano .env // define PORT and DBURI then ctrl + o and enter - ctrl + x and enter
 npm i
 npm start
 ```
-API documentation available on [here]().
+API documentation available on [here](https://documenter.getpostman.com/view/14308169/U16ooifa).
